@@ -1,0 +1,14 @@
+.Giphy {
+  transition: all 300ms;
+  opacity: 1.0;
+}
+
+.Giphy.pending {
+  opacity: 0.0;
+}
+
+.Giphy img {
+  float: left;
+  width: 200px;
+  height: 200px;
+}

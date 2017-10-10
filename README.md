@@ -37,4 +37,7 @@ Finally delete the paragraph tag below the header.
 
 ## Phase 2: Cat Pictures
 
-It is an established fact that the internet has two main purposes, and one of them is sharing cat pictures. 
+It is an established fact that the internet has two main purposes. 
+
+One of them is sharing cat pictures. 
+

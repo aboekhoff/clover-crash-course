@@ -1,0 +1,33 @@
+.Todo {
+  display: block;
+  height: 200px;
+  border-radius: 5px;
+  border: 1px solid #eee;
+  margin: 16px;
+}
+
+.Todo .text {
+  padding: 16px;
+  float: left;
+  width: 200px;
+  text-align: left;
+}
+
+.Todo .text .tag {
+  font-size: 24px;
+  font-weight: 600;
+  color: #333;
+  text-transform: uppercase;
+}
+
+.Todo .text .content {
+  margin-top: 16px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+}
+
+.Todo .image {
+  float: right;
+  display: inline-block;
+}
