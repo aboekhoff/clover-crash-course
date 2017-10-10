@@ -5,6 +5,7 @@ import './Todo.css'
 const Todo = (props) => (
   <div className="Todo">
     <div className="text">
+      <button type="button">Delete</button>
       <div className="tag">{props.tag}</div>
       <div className="content">{props.content}</div>
     </div>
